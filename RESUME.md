@@ -43,7 +43,7 @@ Results-driven DevOps Engineer with 4+ years of experience and hands-on experien
   - Utilized phpMyAdmin for database administration and management.
 
 - Monitoring, Observability, and Uptime:  
-  - Implemented Uptime Kuma, Splunk Grafana, Prometheus and Glances for real-time monitoring, alerting, and performance tracking.
+  - Implemented Uptime Kuma, Splunk, Grafana, Prometheus and Glances for real-time monitoring, alerting, and performance tracking.
   - Integrated Portainer for container management and resource visualization.
 
 - Infrastructure Optimization:  
