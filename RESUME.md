@@ -65,7 +65,7 @@ Results-driven DevOps Engineer with 4+ years of experience and hands-on experien
   Orchestrated several isolated WordPress environments with MySQL, phpMyAdmin, Nginx Proxy Manager, and Redis for optimized caching and performance tuning.
 
 - Home Lab Monitoring Suite:  
-  Established a robust monitoring infrastructure using Glances Splunk Grafana, Prometheus and Uptime Kuma, enabling rapid detection and resolution of system anomalies.
+  Established a robust monitoring infrastructure using Glances, Splunk, Grafana, Prometheus and Uptime Kuma, enabling rapid detection and resolution of system anomalies.
 
  Education
    
