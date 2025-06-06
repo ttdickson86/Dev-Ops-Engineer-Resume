@@ -73,9 +73,9 @@ ITT Technical Institute
 Owings Mill, MD
 Class Of 2015 – 2016
 
- Cources
+Udemy Cources
 
-- Complete Linux Training Course (Udemy)
-- DevOps Beginners to Advanced with Projects (Udemy)
-- Ultimate AWS Certified SysOps Administrator Associate (Udemy)
-- CompTIA Security+ (SY0-701) (Udemy)
+- Complete Linux Training Course 
+- DevOps Beginners to Advanced with Projects 
+- Ultimate AWS Certified SysOps Administrator Associate 
+- CompTIA Security+ (SY0-701) 
