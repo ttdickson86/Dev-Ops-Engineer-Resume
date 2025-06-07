@@ -4,7 +4,7 @@ Dev Ops Engineer
 
 Phone: 443-985-2067
 
-Email: ttdickson86@example.com | GitHub: github.com/ttdickson86 | USA: 3511 Randallstown MD 21133  
+Email: ttdickson86@example.com | GitHub: github.com/ttdickson86 | USA: Randallstown MD 21133  
 
  Professional Summary
 
