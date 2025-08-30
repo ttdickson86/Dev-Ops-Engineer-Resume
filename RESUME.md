@@ -12,7 +12,7 @@ Results-driven DevOps Engineer with 4+ years of experience designing, deploying,
 
  Technical Skills
 
-- Containers & Orchestration: Docker, Docker Compose, Portainer
+- Containers & Orchestration: Docker, Docker Compose, Kubernetes 
 - CI/CD & Version Control: Gitea, Gitea Actions Runner, Jenkins. etc 
 - Web Servers & Reverse Proxy: Nginx Proxy Manager, nginx:alpine
 - Monitoring & Management: Glances, Uptime Kuma, Portainer, Open WebUI
