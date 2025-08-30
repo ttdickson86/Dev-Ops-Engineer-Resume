@@ -8,7 +8,7 @@ Email: ttdickson86@example.com | GitHub: github.com/ttdickson86 | USA: Randallst
 
  Professional Summary
 
-Results-driven DevOps Engineer with 4+ years of experience designing, deploying, and managing containerized applications using Docker in a complex home lab environment. Adept at automating CI/CD pipelines, orchestrating multi-service architectures, and ensuring robust monitoring and uptime. Skilled in open-source tooling, infrastructure as code, and cross-platform deployment for both internal and web-facing services. Passionate about continuous learning, system reliability, and process automation.
+Results-driven DevOps Engineer with 4+ years of experience designing, deploying, and managing containerized applications using Docker, Docker Compose and Kubernetes in a complex home lab environment. Adept at automating CI/CD pipelines, orchestrating multi-service architectures, and ensuring robust monitoring and uptime. Skilled in open-source tooling, infrastructure as code, and cross-platform deployment for both internal and web-facing services. Passionate about continuous learning, system reliability, and process automation.
 
  Technical Skills
 
