@@ -76,6 +76,6 @@ Class Of 2015 – 2016
 Udemy Cources
 
 - Complete Linux Training Course 
-- DevOps Beginners to Advanced with Projects 
+- DevOps Engineer Beginners to Advanced with Projects 
 - Ultimate AWS Certified SysOps Administrator Associate 
 - CompTIA Security+ (SY0-701) 
