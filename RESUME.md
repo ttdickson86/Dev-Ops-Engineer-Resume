@@ -31,7 +31,7 @@ Results-driven DevOps Engineer with 4+ years of experience designing, deploying,
 
 - Designed and Deployed Multi-Service Docker Environments:  
   - Managed and deployed 20+ Dockerized applications and databases across multiple isolated networks.
-  - Utilized Docker Compose and Portainer for orchestrating services, monitoring, and lifecycle management.
+  - Utilized Docker, Docker Compose and Kubernetes for orchestrating services, monitoring, and lifecycle management.
 
 - Version Control and CI/CD Automation:  
   - Self-hosted Gitea Git server and integrated Gitea Actions Runner for automated builds and deployments.
