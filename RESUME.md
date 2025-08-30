@@ -53,7 +53,7 @@ Results-driven DevOps Engineer with 4+ years of experience designing, deploying,
 - Additional Tools & Integrations: 
   - Experience with Linux operating systems including installing, configuring and troubleshooting
   - Deployed Ollama LLM platform and Open WebUI for local AI inference and experimentation.
-  - Scripting experience in Bash and Groovy, and CI/CD with Jenkins
+  - Scripting experience in Bash, YAML, Python, Java and Groovy
   - Leveraged Homarr as a unified home lab dashboard for centralized management.
 
  Key Projects
